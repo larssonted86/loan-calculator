@@ -1,3 +1,7 @@
+A loan calculator with pre defined values. 
+Using a fake api call to get the pre determined values and percentages to calculate the loan.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
