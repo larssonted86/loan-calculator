@@ -1,3 +1,5 @@
+## Description
+
 A loan calculator with pre defined values.<br />
 Using a fake api call to get the pre determined values and percentages to calculate the loan.
 
